@@ -6,7 +6,8 @@
 
 ## 🚀 About Me
 
-I'm a **Team lead Mannual & Automation Specialist** with a proven track record of delivering robust and scalable software testing frameworks across high-impact industries — including airlines, fintech, e-commerce, and machine learning.
+I'm a **🔧 Full Stack QA** | **Automation & Manual Testing** | **API** | **Security** | **Performance Testing Specialist**
+ with a proven track record of delivering robust and scalable software testing frameworks across high-impact industries — including airlines, fintech, e-commerce, and machine learning.
 
 ---
 
